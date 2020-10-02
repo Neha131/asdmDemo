@@ -7,6 +7,10 @@ class Hello
 		System.out.println(a+b);
 		System.out.println("Hello World");
 		System.out.println("Hello how are you!!!");
-		System.out.println("Neha Dagar!!!";
+		System.out.println("Neha Dagar!!!");
+		for(int i=0; i<5; i++)
+		{
+			System.out.println("*");
+		}
 	}
 }
